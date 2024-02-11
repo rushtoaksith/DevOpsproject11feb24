@@ -1,0 +1,6 @@
+Software - > Security System
+Roles ----
+Capture good quality images
+SHould be added in the database
+AS soon as the camera captures an unknown face, it ha sto generate warning on watchmen pcs
+All those who are registed users, gate should immediately open and the timestamp of their entry should be recorded
